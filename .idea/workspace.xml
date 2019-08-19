@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d88878c3-1bb3-40e8-b755-7c3d7788f6c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rmi-server/src/main/java/com/sudu/rmi/server/RmiBootServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rmi-server/src/main/java/com/sudu/rmi/server/RmiBootServer.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/rmi-client/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/rmi-common/target/" />
+    <ignored path="$PROJECT_DIR$/rmi-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rmi-server/src/main/java/com/sudu/rmi/server/service/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rmi-server/src/main/java/com/sudu/rmi/server/RmiBootServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rmi-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rmi-server/src/main/java/com/sudu/rmi/server/RmiBootServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1842" />
+    <option name="y" value="53" />
+    <option name="width" value="1680" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sudu-rmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-rmi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sudu-rmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sudu-rmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sudu-rmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sudu-rmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sudu-rmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sudu-rmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sudu-rmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566211329479" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RmiBootClient">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiBootClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rmi-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sudu.rmi.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sudu.rmi.client.RmiBootClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiBootServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rmi-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sudu.rmi.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sudu.rmi.server.RmiBootServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RmiBootClient" />
+        <item itemvalue="Spring Boot.RmiBootServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../AkkaNotes_Messaging" value="1478920165000" />
+        <entry key="$PROJECT_DIR$/../../../Libratone/source/weixin" value="1489636230000" />
+        <entry key="$PROJECT_DIR$/../../../aa/vrapi" value="1478672281000" />
+        <entry key="$PROJECT_DIR$/../../../actorapp/actor-platform/actor-server" value="1482583448000" />
+        <entry key="$PROJECT_DIR$/../../../finagle/project" value="1482538208000" />
+        <entry key="$PROJECT_DIR$/../../../netty4-example-scala" value="1478853221000" />
+        <entry key="$PROJECT_DIR$/../../../palyTest/mytalk" value="1473776524000" />
+        <entry key="$PROJECT_DIR$/../../../play-slick3-steps-master" value="1466356086000" />
+        <entry key="$PROJECT_DIR$/../../../playNetty" value="1478875588000" />
+        <entry key="$PROJECT_DIR$/../../../scala/ImportDatabase" value="1476285028000" />
+        <entry key="$PROJECT_DIR$/../../../scala/PlayStartApp" value="1482543678000" />
+        <entry key="$PROJECT_DIR$/../../../scala/dangchat-server" value="1482585064000" />
+        <entry key="$PROJECT_DIR$/../../../scala/dreampie_scala" value="1482582675000" />
+        <entry key="$PROJECT_DIR$/../../../scala/my-firt" value="1475626911000" />
+        <entry key="$PROJECT_DIR$/../../auth/play-silhouette-macwire-mongodb" value="1494625660000" />
+        <entry key="$PROJECT_DIR$/../../auth/play-silhouette-reactivemongo-seed" value="1494625778000" />
+        <entry key="$PROJECT_DIR$/../../logam/3/hello" value="1493107990000" />
+        <entry key="$PROJECT_DIR$/../../logam/hello" value="1493013742000" />
+        <entry key="$PROJECT_DIR$/../../logam/online-auction-scala" value="1493085795000" />
+        <entry key="$PROJECT_DIR$/../../online-auction-scala" value="1493024796000" />
+        <entry key="$PROJECT_DIR$/../../play-slick3-steps" value="1490774884000" />
+        <entry key="$PROJECT_DIR$/../../play-test/play-scala-seed" value="1493178318000" />
+        <entry key="$PROJECT_DIR$/../../scala-oauth2-provider-example-skinny-orm" value="1492143639000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/Documents" value="1473338091000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/MQRouter" value="1472827615000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/Receive" value="1472827633000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/ReceiveNode" value="1475043757000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/RemoteConfig" value="1472827662000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/Transaction" value="1472827725000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/Users" value="1472827714000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/Watcher" value="1473346846000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/com.velociraptor.stores" value="1472827683000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160902/develop" value="1475121420000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20160928/Receive" value="1475043757000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20161014/Receive" value="1476416230000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20161014/Watcher" value="1476416392000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/20161014/com.velociraptor.stores" value="1476416359000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/WeixiAPI" value="1471311248000" />
+        <entry key="$PROJECT_DIR$/../../../weixi/solr-scala-client" value="1473524454000" />
+        <entry key="$PROJECT_DIR$/../../../weixin/vrapi" value="1477973113000" />
+        <entry key="$USER_HOME$/Documents/libratone/source/Anglo" value="1493282642000" />
+        <entry key="$USER_HOME$/Documents/libratone/source/WeChatBackend" value="1491360554000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../akka/akka-fusion" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka/akka-http" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka/akka-samples-official/akka-sample-cluster-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka/akka-samples-officical/akka-sample-cluster-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akka/akka-samples/akka-sample-cluster-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../flink/flink-first-one" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/PlaySpring-easyMailer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/cherry" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/mongo-scala-driver" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/play-java8-sample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/play-redis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/play-spring-loader-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/play-spring-loader/examples/spring-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/play24-guice-spring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play/scalongo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala-test/lagom-scala-sbt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spark/BeeStreaming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spark/HadoopJsonSource" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spark/LakepoInitial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-spring-boot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-boot-scala-web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../thingsboard_ext/gatling-mqtt" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/libratone/source/LakepoStreaming" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/libratone/source/StoreAnalysis" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/libratone/source/StoreStatistics" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d88878c3-1bb3-40e8-b755-7c3d7788f6c6" name="Default Changelist" comment="" />
+      <created>1566211242882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566211242882</updated>
+      <workItem from="1566211244732" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1842" y="53" width="1680" height="987" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="SBT Console" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SBT Execute" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rmi-server/src/main/java/com/sudu/rmi/server/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmi-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rmi-server/src/main/java/com/sudu/rmi/server/RmiBootServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21059972" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
